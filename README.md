@@ -220,7 +220,17 @@ Contributions are welcome! Please follow these steps:
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 ## images
+log-in
 <img width="1114" height="799" alt="Screenshot 2026-04-02 100345" src="https://github.com/user-attachments/assets/866c5c72-bea4-4f9f-ba7a-ce702fe4c521" />
+Dashboard
+<img width="1384" height="835" alt="Screenshot 2026-04-02 100404" src="https://github.com/user-attachments/assets/6f1f4e0f-b19d-49e2-8bc1-12f6eebd9592" />
+incoming leads
+<img width="1384" height="835" alt="Screenshot 2026-04-02 100404" src="https://github.com/user-attachments/assets/e9efea0d-bb69-4d5b-b81b-8f7617e90e47" />
+Follow ups
+<img width="1384" height="835" alt="Screenshot 2026-04-02 100404" src="https://github.com/user-attachments/assets/096e1030-f3de-4d7a-a891-4a3c079e5b29" />
+
+
+
 
 ## 🐛 Known Issues & TODO
 
