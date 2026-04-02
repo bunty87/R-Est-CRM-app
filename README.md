@@ -225,9 +225,11 @@ log-in
 Dashboard
 <img width="1384" height="835" alt="Screenshot 2026-04-02 100404" src="https://github.com/user-attachments/assets/6f1f4e0f-b19d-49e2-8bc1-12f6eebd9592" />
 incoming leads
-<img width="1384" height="835" alt="Screenshot 2026-04-02 100404" src="https://github.com/user-attachments/assets/e9efea0d-bb69-4d5b-b81b-8f7617e90e47" />
+<img width="1431" height="837" alt="leads" src="https://github.com/user-attachments/assets/6a47ecfe-95d0-46cb-8b20-ab8d9864f7c1" />
 Follow ups
-<img width="1384" height="835" alt="Screenshot 2026-04-02 100404" src="https://github.com/user-attachments/assets/096e1030-f3de-4d7a-a891-4a3c079e5b29" />
+<img width="1408" height="813" alt="follow ups" src="https://github.com/user-attachments/assets/65fd6693-82c5-4f5e-836a-92142ffdabca" />
+
+
 
 
 
